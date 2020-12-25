@@ -5,9 +5,9 @@ to practice Vanila JS
 
 ## Features
 
-[x] Clock
-[x] To Do List
-[x] Weather
-[ ] Daily Photo
-[ ] Daily Quotes
-[ ] Search
+- [x] Clock
+- [x] To Do List
+- [x] Weather
+- [ ] Daily Photo
+- [ ] Daily Quotes
+- [ ] Search
